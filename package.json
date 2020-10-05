@@ -1,11 +1,11 @@
 {
-  "name": "yellowcake",
+  "name": "sweet home",
   "HomePage": "https://yellowcake.netlify.com/",
-  "description": "An opinionated starter project for creating lightning-fast websites with Gatsby v2 and Netlify CMS v2",
-  "version": "2.0.0",
+  "description": "Sweet home is the niche for God’s cute creations, who deserve our affection and care for a bright future ahead. We share the plight of underprivileged children and are trying our best to enlighten their lives with a new ray of hope.",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thriveweb/yellowcake"
+    "url": "https://github.com/curiouskaran/sweetHome"
   },
   "dependencies": {
     "@reach/router": "^1.2.1",
